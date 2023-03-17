@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Oleksandr
 
-<div>![](https://komarev.com/ghpvs/?username=Oleksandr14)</div>
-
 ---
 
 ### 👨‍💻 About me:
