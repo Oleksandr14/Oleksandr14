@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Oleksandr
 
+---
+
 ### 👨‍💻 About me:
 
 I am a Junior Front-End developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I have experience in the implementation of individual and team projects. I try to constantly carry out small projects to develop myself. I am looking for a company that will believe in me and give me the opportunity to learn, expand my skills and join a team of professional developers.
@@ -8,7 +10,22 @@ I am a Junior Front-End developer<img src="https://media.giphy.com/media/WUlplcM
 - 🔭 I am constantly learning new things
 - 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-oleksandrpalamarchuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alexpalamar_chuk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:palamarchuk.oa93@gmail.com)
 
-### 🧰 Languages and Tools:
+---
+
+### 🤝 Social networks:
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/oleksandr-palamarchuk-4a0749250/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/Alexpalamar_chuk" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
+
+---
+
+### 🧰 Technologies and Tools:
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -21,3 +38,19 @@ I am a Junior Front-End developer<img src="https://media.giphy.com/media/WUlplcM
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+---
+
+### ⚙️ GitHub statistic:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Oleksandr14&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Oleksandr14&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
